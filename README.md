@@ -2,11 +2,12 @@
 
 There are certain tools you need to have for the tool to function properly. So, what are they?
 
-katana
-paramspider
-waybackurls
-gau
-linkfinder
+- katana
+- paramspider
+- waybackurls
+- gau
+- linkfinder
+  
 !!! Please make sure to install the tools in the /usr/local/bin directory.
 
 
